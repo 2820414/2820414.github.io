@@ -1,2 +1,8 @@
 .main_body{
+  text-align: center;
+  background-repeat: no-repeat;
+  background-image: url('img002.jpg');
+  background-size: 100% 100%;
+  color:white;
+  font-family: monospace;
 }
