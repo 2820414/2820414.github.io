@@ -20,7 +20,7 @@
   margin: 4px 2px;
   cursor: pointer;
 }
-@btn-2 {
+#btn-2 {
   background-color: #ff0000;
   border: 3;
   color: white;
