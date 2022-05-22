@@ -9,7 +9,7 @@
   font-family: monospace;
 }
 #btn-1 {
-  background-color: #4CAF50;
+  background-color: #000066;
   border: 3;
   color: white;
   padding: 15px 32px;
@@ -17,11 +17,11 @@
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
-  margin: 4px 2px;
+  margin: 4px 4px;
   cursor: pointer;
 }
 #btn-2 {
-  background-color: #ff0000;
+  background-color: #000066;
   border: 3;
   color: white;
   padding: 15px 32px;
@@ -29,6 +29,6 @@
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
-  margin: 4px 2px;
+  margin: 4px 4px;
   cursor: pointer;
 }
