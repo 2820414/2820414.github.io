@@ -11,6 +11,7 @@
 #btn-1 {
   background-color: #331a00;
   border: 5px solid #ffe6cc;
+  border-radius:12px;
   color: white;
   padding: 15px 32px;
   text-align: center;
@@ -23,6 +24,7 @@
 #btn-2 {
   background-color: #331a00;
   border: 5px solid #ffe6cc;
+  border-radius:12px;
   color: white;
   padding: 15px 32px;
   text-align: center;
